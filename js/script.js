@@ -1,1 +1,1 @@
-console.log("que mira perro hp")
+console.log("que mira perro hp gonorrea eres un puto crack");
